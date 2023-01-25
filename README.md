@@ -4,4 +4,4 @@
 - отображает три ImageView и кнопку UIButton
 - по нажатию на кнопку рандомно изменяет Image в ImageView создавая эфект брошенных костей
 
-![End Banner](Documentation/Simulator Screen Shot - iPhone 14 Pro - 2023-01-26 at 01.45.18.png)
+![End Banner](Documentation/Screen.png)
