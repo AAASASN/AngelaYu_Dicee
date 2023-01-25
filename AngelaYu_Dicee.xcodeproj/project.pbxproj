@@ -40,6 +40,7 @@
 		11120F2A2981CA850095B4D4 = {
 			isa = PBXGroup;
 			children = (
+				11B4B7E22981EB320045E459 /* Documentation */,
 				11120F352981CA850095B4D4 /* AngelaYu_Dicee */,
 				11120F342981CA850095B4D4 /* Products */,
 			);
@@ -65,6 +66,13 @@
 				11120F442981CA870095B4D4 /* Info.plist */,
 			);
 			path = AngelaYu_Dicee;
+			sourceTree = "<group>";
+		};
+		11B4B7E22981EB320045E459 /* Documentation */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Documentation;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
